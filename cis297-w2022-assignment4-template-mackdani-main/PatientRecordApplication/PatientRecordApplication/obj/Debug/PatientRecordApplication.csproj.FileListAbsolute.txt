@@ -1,0 +1,16 @@
+C:\Users\MackD\Downloads\cis297-w2022-assignment4-template-mackdani-main\cis297-w2022-assignment4-template-mackdani-main\PatientRecordApplication\PatientRecordApplication\obj\Debug\PatientRecordApplication.csproj.AssemblyReference.cache
+C:\Users\MackD\Downloads\cis297-w2022-assignment4-template-mackdani-main\cis297-w2022-assignment4-template-mackdani-main\PatientRecordApplication\PatientRecordApplication\obj\Debug\PatientRecordApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\MackD\Downloads\cis297-w2022-assignment4-template-mackdani-main\cis297-w2022-assignment4-template-mackdani-main\PatientRecordApplication\PatientRecordApplication\obj\Debug\PatientRecordApplication.csproj.CoreCompileInputs.cache
+C:\Users\MackD\Downloads\cis297-w2022-assignment4-template-mackdani-main\cis297-w2022-assignment4-template-mackdani-main\PatientRecordApplication\PatientRecordApplication\bin\Debug\PatientRecordApplication.exe.config
+C:\Users\MackD\Downloads\cis297-w2022-assignment4-template-mackdani-main\cis297-w2022-assignment4-template-mackdani-main\PatientRecordApplication\PatientRecordApplication\bin\Debug\PatientRecordApplication.exe
+C:\Users\MackD\Downloads\cis297-w2022-assignment4-template-mackdani-main\cis297-w2022-assignment4-template-mackdani-main\PatientRecordApplication\PatientRecordApplication\bin\Debug\PatientRecordApplication.pdb
+C:\Users\MackD\Downloads\cis297-w2022-assignment4-template-mackdani-main\cis297-w2022-assignment4-template-mackdani-main\PatientRecordApplication\PatientRecordApplication\obj\Debug\PatientRecordApplication.exe
+C:\Users\MackD\Downloads\cis297-w2022-assignment4-template-mackdani-main\cis297-w2022-assignment4-template-mackdani-main\PatientRecordApplication\PatientRecordApplication\obj\Debug\PatientRecordApplication.pdb
+C:\Users\MackD\Downloads\cis297-w2022-assignment4-template-mackdani-main\PatientRecordApplication\PatientRecordApplication\bin\Debug\PatientRecordApplication.exe.config
+C:\Users\MackD\Downloads\cis297-w2022-assignment4-template-mackdani-main\PatientRecordApplication\PatientRecordApplication\bin\Debug\PatientRecordApplication.exe
+C:\Users\MackD\Downloads\cis297-w2022-assignment4-template-mackdani-main\PatientRecordApplication\PatientRecordApplication\bin\Debug\PatientRecordApplication.pdb
+C:\Users\MackD\Downloads\cis297-w2022-assignment4-template-mackdani-main\PatientRecordApplication\PatientRecordApplication\obj\Debug\PatientRecordApplication.csproj.AssemblyReference.cache
+C:\Users\MackD\Downloads\cis297-w2022-assignment4-template-mackdani-main\PatientRecordApplication\PatientRecordApplication\obj\Debug\PatientRecordApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\MackD\Downloads\cis297-w2022-assignment4-template-mackdani-main\PatientRecordApplication\PatientRecordApplication\obj\Debug\PatientRecordApplication.csproj.CoreCompileInputs.cache
+C:\Users\MackD\Downloads\cis297-w2022-assignment4-template-mackdani-main\PatientRecordApplication\PatientRecordApplication\obj\Debug\PatientRecordApplication.exe
+C:\Users\MackD\Downloads\cis297-w2022-assignment4-template-mackdani-main\PatientRecordApplication\PatientRecordApplication\obj\Debug\PatientRecordApplication.pdb
